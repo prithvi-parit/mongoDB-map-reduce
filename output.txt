@@ -1,0 +1,4 @@
+{ "_id" : "Ant O. Knee", "value" : 95 }
+{ "_id" : "Busby Bee", "value" : 125 }
+{ "_id" : "Cam Elot", "value" : 60 }
+{ "_id" : "Don Quis", "value" : 155 }
